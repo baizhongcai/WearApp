@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--在这里的所有Item相当于界面上的Item-->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_1"
+        android:icon="@mipmap/ic_01"
+        android:title="打电话"
+        />
+    <item
+        android:id="@+id/menu_2"
+        android:icon="@mipmap/ic_02"
+        android:title="发消息" />
+
+    <item
+        android:id="@+id/menu_3"
+        android:icon="@mipmap/ic_01"
+        android:title="打电话"
+        />
+    <item
+        android:id="@+id/menu_4"
+        android:icon="@mipmap/ic_02"
+        android:title="发消息" />
+
+    <item
+        android:id="@+id/menu_5"
+        android:icon="@mipmap/ic_01"
+        android:title="打电话"
+        />
+    <item
+        android:id="@+id/menu_6"
+        android:icon="@mipmap/ic_02"
+        android:title="发消息" />
+</menu>
